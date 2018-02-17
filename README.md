@@ -31,6 +31,7 @@ Installation
 On Debian Linux:
 
 `apt-get install libmagic-dev`
+
 `apt-get install libmagickwand-dev`
 
 `gem install docx_converter`
