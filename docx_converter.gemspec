@@ -4,7 +4,7 @@ require "docx_converter/version"
 
 Gem::Specification.new do |s|
   s.name        = "docx_converter"
-  s.version     = "1.0.0"
+  s.version     = DocxConverter::VERSION
   s.authors     = ["Michael Franzl"]
   s.email       = ["office@michaelfranzl.com"]
   s.homepage    = "https://github.com/michaelfranzl/docx_converter"
